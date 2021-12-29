@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_your_question">Enter your question:</string>
+    <string name="question">Q: %s</string>
+    <string name="answer">A: %s</string>
+
+    <string name="result_title">Result</string>
+    <string name="no_question_error">Type a question</string>
+    <string name="no_answer_error">Select answer</string>
+</resources>

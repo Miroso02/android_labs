@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="input_request">Enter our question</string>
+    <string name="data_screen_title">Saved QnA</string>
+    <string name="no_data">No saved entries</string>
+    <string name="ok_button">OK</string>
+    <string name="result_screen_title">Result</string>
+    <string name="question_text">Q: %s</string>
+    <string name="answer_text">A: %s</string>
+    <string name="saved_message">Value saved to database</string>
+    <string name="history_button">History</string>
+    <string name="blank_question_error">Question cannot be blank</string>
+</resources>
